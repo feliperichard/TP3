@@ -7,10 +7,7 @@
 * KEYWORDS
 * FILE ORGANIZATION
 * DATASET DESCRIPTION 
-* DATA DICTIONARY
-* DATA ANALYSIS
-* SHARING & ACCESSING INFORMATION
-* ADDITIONAL NOTES/COMMENTS
+
 
 ### DATASET TITLE
 
@@ -51,12 +48,6 @@ De manera más gráfica podemos asociarla a la siguiente experiencia de compra:
 |:-:|---|---|---|---|
 |  <img src="./assets/images/LOADING.jpeg" width="120" >  |  <img src="./assets/images/SHIPPING.jpeg" width="120" > | <img src="./assets/images/PAYMENTS.jpeg" width="120" >  |  <img src="./assets/images/REVIEW.jpeg" width="120" > |  <img src="./assets/images/CONGRATS.jpeg" width="120" > |
 
-
-
-
-
-
-
 Por otra parte e intentando describir el comportamiento de la infraestructura
 acompañamos [el dataset de eventos](events_AR_CL_UY.csv) que intente describir
 los eventos/errores registrados durante la ejecución de los pasos de las experiencias 
@@ -73,3 +64,39 @@ El dataset consiste en 2 archivos:
 1. [El dataset de tráfico](traffic_AR_CL_UY.csv) intenta reflejar el tráfico entre las pantallas de un flujo de Compras
 2. [El dataset de eventos](events_AR_CL_UY.csv) que intente describir
 los eventos/errores registrados durante la ejecución de los pasos del flow
+
+### DATASET DESCRIPTION
+1. [El dataset de tráfico](traffic_AR_CL_UY.csv) intenta reflejar el tráfico entre las pantallas de un flujo de Compras
+
+| Nombre   |  Tipo  | Formato    | Descripción |
+|----------|--------|------------|-------------|
+| Fecha    |  Date | YYYY-MM-DD |  Los valores corresponde a los eventos registrados durante este día |
+| flow     | String | direct-cart | Define si el flujo corresponde a compra directa o de carrito |
+| Site     | String |   XXX       |             |
+| Device   |        |             | Define el dispositivo donde se ejecuto el flujo de compra |
+| Loading  | Entero |             | Cantidad de sesiones que vieron el paso de Loading  |
+| Shipping |        |             | Cantidad de sesiones que vieron el paso de Shipping |
+| Payments |        |             | Cantidad de sesiones que vieron el paso de Payments |
+| Review   |        |             | Cantidad de sesiones que vieron el paso de Review   |
+| Congrats |        |             | Cantidad de sesiones que vieron el paso de Congrats |
+
+
+
+
+2. [El dataset de eventos](events_AR_CL_UY.csv) que intente describir
+los eventos/errores registrados durante la ejecución de los pasos del flow
+
+| Nombre   |  Tipo | Formato  | Descripción |
+|----------|-------|----------|-------------|
+| start    |       |          |             |
+| end      |       |          |             |
+| site     |       |          |             |
+| event    |       |          |             |
+| count    |       |          |             |
+| cost     |       |          |             |
+
+
+
+
+
+ 
