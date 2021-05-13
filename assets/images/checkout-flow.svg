@@ -1,0 +1,136 @@
+<svg id="mermaid-svg-HWv3fG0TS2PPdqsf" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="62" style="max-width: 643.546875px;" viewBox="0 0 643.546875 62">
+    <style>#mermaid-svg-HWv3fG0TS2PPdqsf{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#000000;}#mermaid-svg-HWv3fG0TS2PPdqsf .error-icon{fill:#552222;}#mermaid-svg-HWv3fG0TS2PPdqsf .error-text{fill:#552222;stroke:#552222;}#mermaid-svg-HWv3fG0TS2PPdqsf .edge-thickness-normal{stroke-width:2px;}#mermaid-svg-HWv3fG0TS2PPdqsf .edge-thickness-thick{stroke-width:3.5px;}#mermaid-svg-HWv3fG0TS2PPdqsf .edge-pattern-solid{stroke-dasharray:0;}#mermaid-svg-HWv3fG0TS2PPdqsf .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-svg-HWv3fG0TS2PPdqsf .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-svg-HWv3fG0TS2PPdqsf .marker{fill:#666;stroke:#666;}#mermaid-svg-HWv3fG0TS2PPdqsf .marker.cross{stroke:#666;}#mermaid-svg-HWv3fG0TS2PPdqsf svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#mermaid-svg-HWv3fG0TS2PPdqsf .label{font-family:"trebuchet ms",verdana,arial,sans-serif;color:#000000;}#mermaid-svg-HWv3fG0TS2PPdqsf .cluster-label text{fill:#333;}#mermaid-svg-HWv3fG0TS2PPdqsf .cluster-label span{color:#333;}#mermaid-svg-HWv3fG0TS2PPdqsf .label text,#mermaid-svg-HWv3fG0TS2PPdqsf span{fill:#000000;color:#000000;}#mermaid-svg-HWv3fG0TS2PPdqsf .node rect,#mermaid-svg-HWv3fG0TS2PPdqsf .node circle,#mermaid-svg-HWv3fG0TS2PPdqsf .node ellipse,#mermaid-svg-HWv3fG0TS2PPdqsf .node polygon,#mermaid-svg-HWv3fG0TS2PPdqsf .node path{fill:#eee;stroke:#999;stroke-width:1px;}#mermaid-svg-HWv3fG0TS2PPdqsf .node .label{text-align:center;}#mermaid-svg-HWv3fG0TS2PPdqsf .node.clickable{cursor:pointer;}#mermaid-svg-HWv3fG0TS2PPdqsf .arrowheadPath{fill:#333333;}#mermaid-svg-HWv3fG0TS2PPdqsf .edgePath .path{stroke:#666;stroke-width:1.5px;}#mermaid-svg-HWv3fG0TS2PPdqsf .flowchart-link{stroke:#666;fill:none;}#mermaid-svg-HWv3fG0TS2PPdqsf .edgeLabel{background-color:white;text-align:center;}#mermaid-svg-HWv3fG0TS2PPdqsf .edgeLabel rect{opacity:0.5;background-color:white;fill:white;}#mermaid-svg-HWv3fG0TS2PPdqsf .cluster rect{fill:hsl(210,66.6666666667%,95%);stroke:#26a;stroke-width:1px;}#mermaid-svg-HWv3fG0TS2PPdqsf .cluster text{fill:#333;}#mermaid-svg-HWv3fG0TS2PPdqsf .cluster span{color:#333;}#mermaid-svg-HWv3fG0TS2PPdqsf div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:12px;background:hsl(-160,0%,93.3333333333%);border:1px solid #26a;border-radius:2px;pointer-events:none;z-index:100;}#mermaid-svg-HWv3fG0TS2PPdqsf:root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}#mermaid-svg-HWv3fG0TS2PPdqsf flowchart{fill:apa;}</style>
+    <g>
+        <g class="output">
+            <g class="clusters"></g>
+            <g class="edgePaths">
+                <g class="edgePath LS-LOADING LE-SHIPPING" id="L-LOADING-SHIPPING" style="opacity: 1;">
+                    <path class="path" d="M91.625,31L116.625,31L141.625,31" marker-end="url(https://stackedit.io/app#arrowhead91)" style="fill:none"></path>
+                    <defs>
+                        <marker id="arrowhead91" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+                            <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+                        </marker>
+                    </defs>
+                </g>
+                <g class="edgePath LS-SHIPPING LE-PAYMENT" id="L-SHIPPING-PAYMENT" style="opacity: 1;">
+                    <path class="path" d="M227.578125,31L252.578125,31L277.578125,31" marker-end="url(https://stackedit.io/app#arrowhead92)" style="fill:none"></path>
+                    <defs>
+                        <marker id="arrowhead92" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+                            <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+                        </marker>
+                    </defs>
+                </g>
+                <g class="edgePath LS-PAYMENT LE-REVIEW" id="L-PAYMENT-REVIEW" style="opacity: 1;">
+                    <path class="path" d="M364.484375,31L389.484375,31L414.484375,31" marker-end="url(https://stackedit.io/app#arrowhead93)" style="fill:none"></path>
+                    <defs>
+                        <marker id="arrowhead93" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+                            <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+                        </marker>
+                    </defs>
+                </g>
+                <g class="edgePath LS-REVIEW LE-CONGRATS" id="L-REVIEW-CONGRATS" style="opacity: 1;">
+                    <path class="path" d="M488.421875,31L513.421875,31L538.421875,31" marker-end="url(https://stackedit.io/app#arrowhead94)" style="fill:none"></path>
+                    <defs>
+                        <marker id="arrowhead94" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+                            <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+                        </marker>
+                    </defs>
+                </g>
+            </g>
+            <g class="edgeLabels">
+                <g class="edgeLabel" transform="" style="opacity: 1;">
+                    <g transform="translate(0,0)" class="label">
+                        <rect rx="0" ry="0" width="0" height="0"></rect>
+                        <foreignObject width="0" height="0">
+                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">
+                                <span id="L-L-LOADING-SHIPPING" class="edgeLabel L-LS-LOADING' L-LE-SHIPPING"></span>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+                <g class="edgeLabel" transform="" style="opacity: 1;">
+                    <g transform="translate(0,0)" class="label">
+                        <rect rx="0" ry="0" width="0" height="0"></rect>
+                        <foreignObject width="0" height="0">
+                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">
+                                <span id="L-L-SHIPPING-PAYMENT" class="edgeLabel L-LS-SHIPPING' L-LE-PAYMENT"></span>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+                <g class="edgeLabel" transform="" style="opacity: 1;">
+                    <g transform="translate(0,0)" class="label">
+                        <rect rx="0" ry="0" width="0" height="0"></rect>
+                        <foreignObject width="0" height="0">
+                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">
+                                <span id="L-L-PAYMENT-REVIEW" class="edgeLabel L-LS-PAYMENT' L-LE-REVIEW"></span>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+                <g class="edgeLabel" transform="" style="opacity: 1;">
+                    <g transform="translate(0,0)" class="label">
+                        <rect rx="0" ry="0" width="0" height="0"></rect>
+                        <foreignObject width="0" height="0">
+                            <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">
+                                <span id="L-L-REVIEW-CONGRATS" class="edgeLabel L-LS-REVIEW' L-LE-CONGRATS"></span>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+            </g>
+            <g class="nodes">
+                <g class="node default" id="flowchart-LOADING-367" transform="translate(49.8125,31)" style="opacity: 1;">
+                    <rect rx="0" ry="0" x="-41.8125" y="-23" width="83.625" height="46" class="label-container"></rect>
+                    <g class="label" transform="translate(0,0)">
+                        <g transform="translate(-31.8125,-13)">
+                            <foreignObject width="63.625" height="26">
+                                <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">LOADING</div>
+                            </foreignObject>
+                        </g>
+                    </g>
+                </g>
+                <g class="node default" id="flowchart-SHIPPING-368" transform="translate(184.6015625,31)" style="opacity: 1;">
+                    <rect rx="0" ry="0" x="-42.9765625" y="-23" width="85.953125" height="46" class="label-container"></rect>
+                    <g class="label" transform="translate(0,0)">
+                        <g transform="translate(-32.9765625,-13)">
+                            <foreignObject width="65.953125" height="26">
+                                <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">SHIPPING</div>
+                            </foreignObject>
+                        </g>
+                    </g>
+                </g>
+                <g class="node default" id="flowchart-PAYMENT-369" transform="translate(321.03125,31)" style="opacity: 1;">
+                    <rect rx="0" ry="0" x="-43.453125" y="-23" width="86.90625" height="46" class="label-container"></rect>
+                    <g class="label" transform="translate(0,0)">
+                        <g transform="translate(-33.453125,-13)">
+                            <foreignObject width="66.90625" height="26">
+                                <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">PAYMENT</div>
+                            </foreignObject>
+                        </g>
+                    </g>
+                </g>
+                <g class="node default" id="flowchart-REVIEW-370" transform="translate(451.453125,31)" style="opacity: 1;">
+                    <rect rx="0" ry="0" x="-36.96875" y="-23" width="73.9375" height="46" class="label-container"></rect>
+                    <g class="label" transform="translate(0,0)">
+                        <g transform="translate(-26.96875,-13)">
+                            <foreignObject width="53.9375" height="26">
+                                <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">REVIEW</div>
+                            </foreignObject>
+                        </g>
+                    </g>
+                </g>
+                <g class="node default" id="flowchart-CONGRATS-371" transform="translate(586.984375,31)" style="opacity: 1;">
+                    <rect rx="0" ry="0" x="-48.5625" y="-23" width="97.125" height="46" class="label-container"></rect>
+                    <g class="label" transform="translate(0,0)">
+                        <g transform="translate(-38.5625,-13)">
+                            <foreignObject width="77.125" height="26">
+                                <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">CONGRATS</div>
+                            </foreignObject>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
