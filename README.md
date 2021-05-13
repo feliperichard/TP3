@@ -47,12 +47,15 @@ En su dominio e intentando describir el comportamiento del usurio [el dataset de
 
 De manera más gráfica podemos asociarla a la siguiente experiencia de compra:
 
-<img src="./assets/images/LOADING.jpeg" width="120" > 
+|   |   |   |   |   |
+|:-:|---|---|---|---|
+|  <img src="./assets/images/LOADING.jpeg" width="120" >  |  <img src="./assets/images/SHIPPING.jpeg" width="120" > | <img src="./assets/images/PAYMENTS.jpeg" width="120" >  |  <img src="./assets/images/REVIEW.jpeg" width="120" > |  <img src="./assets/images/CONGRATS.jpeg" width="120" > |
 
-<img src="./assets/images/SHIPPING.jpeg" width="120" >
-<img src="./assets/images/PAYMENTS.jpeg" width="120" >
-<img src="./assets/images/REVIEW.jpeg" width="120" >
-<img src="./assets/images/CONGRATS.jpeg" width="120" >
+
+
+
+
+
 
 Por otra parte e intentando describir el comportamiento de la infraestructura
 acompañamos [el dataset de eventos](events_AR_CL_UY.csv) que intente describir
