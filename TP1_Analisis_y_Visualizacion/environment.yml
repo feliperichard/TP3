@@ -1,0 +1,19 @@
+# run: conda env create --file environment.yml
+name: ddatos21_ment_tp1
+channels:
+    - anaconda
+    - conda-forge
+    - defaults
+dependencies:
+    - matplotlib
+    - numpy
+    - pandas
+    - pip
+    - plotly
+    - python>=3.6
+    # Development - modeling & jupyter
+    - jupyter
+    - jupyter_contrib_nbextensions
+    - nb_conda_kernels
+    - pip:
+          - cufflinks
