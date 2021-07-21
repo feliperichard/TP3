@@ -1,0 +1,29 @@
+# run: conda env create --file environment.yml
+name: ddatos21_ment_tp3
+channels:
+    - anaconda
+    - conda-forge
+    - defaults
+dependencies:
+    - fbprophet=0.6
+    - matplotlib
+    - numpy
+    - optuna
+    - pandas
+    - pip
+    - plotly
+    - plotly
+    - plotly-orca
+    - python>=3.7
+    - seaborn
+    - scikit-learn 
+    - scikit-optimize
+    - scipy
+    - statsmodels
+    # Development - modeling & jupyter
+    - pip
+    - jupyter
+    - jupyter_contrib_nbextensions
+    - nb_conda_kernels
+    - pip:
+        - cufflinks
